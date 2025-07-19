@@ -6,8 +6,8 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Mutable;
 import org.spongepowered.asm.mixin.gen.Accessor;
 
-@Mixin(TeamS2CPacket.SerializableTeam.class)
-public interface SerializableTeamAccessor {
+@Mixin(TeamS2CPacket.class)
+public interface TeamS2CPacketAccessor {
     @Mutable
     @Accessor("prefix")
     void setPrefix(Text text);

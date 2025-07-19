@@ -13,7 +13,7 @@ import java.util.*;
 import java.util.function.Consumer;
 
 /**
- * Basic sidebar with all of basic functionality
+ * Basic sidebar with all basic functionality
  */
 @SuppressWarnings({ "unused" })
 public class Sidebar {

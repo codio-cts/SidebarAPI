@@ -21,8 +21,5 @@
     "main": [
       "eu.pb4.sidebarstest.TestMod"
     ]
-  },
-
-  "depends": {
   }
 }

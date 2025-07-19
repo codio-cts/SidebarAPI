@@ -1,6 +1,5 @@
 package eu.pb4.sidebars.api.lines;
 
-
 import net.minecraft.server.network.ServerPlayNetworkHandler;
 import net.minecraft.server.network.ServerPlayerEntity;
 import net.minecraft.text.Text;

@@ -21,7 +21,7 @@ public interface SidebarLine {
     int getValue();
 
     /**
-     * Changes value of sidebar line. Used by {@Code LineBuilder}
+     * Changes value of sidebar line. Used by {@link LineBuilder}
      */
     boolean setValue(int value);
 
